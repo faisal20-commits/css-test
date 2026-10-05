@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.btn-w {
+    background-color: black;
+    color:white;
+}
+
+.btn-t {
+    background-color: yellow;
+}
+
+.btn-w, .btn-t {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
