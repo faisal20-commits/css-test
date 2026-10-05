@@ -7,7 +7,8 @@
     background-color: yellow;
 }
 
-.btn-w, .btn-t {
+.btn-w, 
+.btn-t {
     font-size: 28px;
     font-family: helvetica, "Times New Roman", sans-serif;
 }
